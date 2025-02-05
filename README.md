@@ -1,7 +1,7 @@
 ### 👋 Bonjour, je suis [Thomas Cossic](https://thomascossic.fr)  
 🚀 **Développeur Passionné | Enthousiaste Tech | Apprenant à Vie**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Bienvenue+sur+mon+profil+GitHub!;Développeur+%7C+Ingénieur+%7C+Passionné+de+Tech)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Bienvenue+sur+mon+profil+GitHub!;Développeur+%7C+Passionné+de+Tech)
 
 ---
 
