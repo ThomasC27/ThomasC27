@@ -6,9 +6,9 @@
 ---
 
 ### 🔥 À propos de moi
-Je suis un développeur passionné par la création de solutions robustes, évolutives et efficaces. Avec une solide expérience en programmation, développement web, gestion de bases de données et administration système, j'aime relever des défis complexes.
+Étudiant en 3ème année de BUT Informatique à IUT Blagnac, et alternant chez Airbus. Passionné par l'informatique et amateur de pêche.
 
-💡 **Centres d'intérêt:** Développement Web, Administration Système, DevOps et Cloud Computing.
+💡 **Centres d'intérêt:** Développement Web, Développement de logiciel, pêche !
 
 🌍 **Portfolio:** [thomascossic.fr](https://thomascossic.fr)
 
