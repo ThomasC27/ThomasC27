@@ -36,13 +36,6 @@
 
 ---
 
-### 📊 Statistiques GitHub
-![Stats GitHub de Thomas](https://github-readme-stats.vercel.app/api?username=ton-utilisateur&show_icons=true&theme=radical)
-
-![Streak GitHub](https://github-readme-streak-stats.herokuapp.com/?user=ton-utilisateur&theme=radical)
-
----
-
 ### 🌍 Restons en contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-utilisateur) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ton-utilisateur)
 
